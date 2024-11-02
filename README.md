@@ -1,4 +1,4 @@
-# Your Project Name
+# GolangSlackBOT
 
 ## Overview
 This project integrates the power of Wolfram Alpha, Wit.ai, and Slack to provide a Slack bot that can answer complex queries using natural language processing. It demonstrates using Go for real-time communication and data processing.
